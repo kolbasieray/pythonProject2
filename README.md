@@ -1,2 +1,3 @@
-# pythonProject2
- edu
+# EduSozluk
+
+Baslik ekle-sil 
